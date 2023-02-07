@@ -1,26 +1,26 @@
-<div align="center"> <h1>  Análisis de Cancelaciones Hoteleras </h1>  
+<div align="center"> <h1>  Hotel Cancellations Analysis </h1>  
   
 ![](/Análisis-de-Cancelaciones.jpg)
   
-Proyecto realizado en el bootcamp de [Laboratoria](https://app.laboratoria.la/signup-and-login/) e IBM
+Project carried out in the bootcamp of [Laboratoria](https://app.laboratoria.la/signup-and-login/) and IBM
 </div>
 
-## 🎓 Objetivos del proyecto
+❕ [SEE VERSION SPANISH EDITION](https://github.com/gianelytics/Data-analytics-Project-4/blob/018bbd82b0c42e4430b4c725109a4e2bfd8bfa23/README_spanish.md)
 
-- Organizar y manipular datos utilizando SQL
-- Tomar decisiones de negocio basadas en data
-- Visualizar datos en una herramienta de Business Intelligence (BI)
-- Organizar y comunicar hallazgos
+## 🎓 Project Objectives
+- Organize and manipulate data using SQL
+- Make business decisions based on data
+- Visualize data in a Business Intelligence (BI) tool
+- Organize and communicate findings
 
-## Contexto
+## 📌 Context
+In this project, a reservations analysis will be conducted in a hotel business in the tourism industry to understand the cancellation rate of reservations and which reservations have the greatest risk of cancellation, so that the contract with the agency can be renegotiated. For this, five hypotheses will guide this part of the analysis:
 
-En este proyecto se realizará un análisis de reservas en un negocio de hoteles en la industria del turismo que permita conocer ¿Cuánto es la tasa de cancelación de reservas? y ¿Cuáles son las reservas con mayor riesgo de cancelación? para que con dicha información se pueda renegociar el contrato con la agencia. Para ello se plantearán 5 hipótesis que guiarán esta parte del análisis:
-
->1. Las reservas que se hacen con mayor anticipación tienen mucho riesgo de cancelarse.
->2. Las reservas que incluyen hijos tienen menor riesgo.
->3. Los usuarios que realizaron algún cambio en su reserva tienen menor riesgo.
->4. Cuando el usuario ha realizado una solicitud especial el riesgo es menor.
->5. Las reservas que tienen un “adr” bajo el riesgo es menor.
+> 1. Reservations made with greater anticipation have a high risk of cancellation.
+> 2. Reservations that include children have a lower risk.
+> 3. Users who made a change in their reservation have a lower risk.
+> 4. When the user has made a special request, the risk is lower.
+> 5. Reservations with a low "adr" have a lower risk.
 
 <div align="center">
   
@@ -28,20 +28,20 @@ En este proyecto se realizará un análisis de reservas en un negocio de hoteles
   </div>
 
 
-## Reporte
+## 🔎 Report
 
-    Realizar un análisis descriptivo utilizando los datos históricos de una cadena hotelera
+    Conduct a descriptive analysis using the historical data of a hotel chain
     
->Para el desarrollo de este proyecto se utilizará herramientas importantes para el análisis de datos. Una de ellas es BigQuery, un motor de base de datos creado por Google, que permite manipular datos de forma eficiente a través del lenguaje SQL. La segunda es PowerBI, una herramienta de visualización de datos creada por Microsoft.
+>For the development of this project, important tools for data analysis will be used. One of them is BigQuery, a database engine created by Google, that allows to efficiently manipulate data through the SQL language. The second is PowerBI, a data visualization tool created by Microsoft.
 
-<h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1WqA3e40Kd6uGWBP9JNA5fNMhb4CtlIaD1vkNhuZ9OJc/edit?usp=sharing">Proyecto 4: Reporte </a>
+<h4 align="left"> 📝 <a href="https://docs.google.com/spreadsheets/d/1WqA3e40Kd6uGWBP9JNA5fNMhb4CtlIaD1vkNhuZ9OJc/edit?usp=sharing">Google Sheets Report< </a>
   
-<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/file/d/1jFM6YKXOZvdBzRNOLcWtAOOrAxgKTMca/view?usp=sharing">Proyecto 4: Reporte Power Bi</a>
+<h4 align="left"> 👩‍💻 <a href="https://drive.google.com/file/d/1jFM6YKXOZvdBzRNOLcWtAOOrAxgKTMca/view?usp=sharing">Power BI Report</a>
   
-<h4 align="left"> 📄 <a href="https://drive.google.com/file/d/1J1EutiZjKst3Bl_cVPYdrBtPiw-cmLE2/view?usp=sharing">Proyecto 4: Reporte PDF</a>
+<h4 align="left"> 📄 <a href="https://drive.google.com/file/d/1J1EutiZjKst3Bl_cVPYdrBtPiw-cmLE2/view?usp=sharing">PDF Report</a>
 </h4>
 
-## Solución
+## 💡Solution
   
 <div align="center">
   
@@ -53,4 +53,4 @@ En este proyecto se realizará un análisis de reservas en un negocio de hoteles
 
 ### 🏷️Tags
 
-`SQL` | `Power BI` | `Negocios` | `Visualización` 
+`SQL` | `Power BI` | `Business` | `Visualization` 
